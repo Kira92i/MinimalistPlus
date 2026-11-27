@@ -105,9 +105,9 @@ var APPS=[
 
 /* ---------- Drawer: 3 donation methods (put YOUR real details in "value") ---------- */
 var DONATE=[
-  {name:{en:"RedotPay",ar:"RedotPay"},        value:"YOUR-REDOTPAY-ID",     path:"M3 6h18v12H3zM3 10h18"},
-  {name:{en:"PayPal",ar:"PayPal"},            value:"paypal.me/YOUR-NAME",  path:"M7 20l2-14h6a4 4 0 010 8H10"},
-  {name:{en:"BaridiMob",ar:"بريدي موب"},      value:"YOUR-BARIDIMOB-RIP",   path:"M4 10l8-6 8 6M6 10v8M10 10v8M14 10v8M18 10v8M3 20h18"}
+  {name:{en:"RedotPay",ar:"RedotPay"},        value:"1783993495",     path:"M3 6h18v12H3zM3 10h18"},
+  {name:{en:"PayPal",ar:"PayPal"},            value:"billelabdiche92@gmail.com",  path:"M7 20l2-14h6a4 4 0 010 8H10"},
+  {name:{en:"BaridiMob",ar:"بريدي موب"},      value:"00799999002279035770",   path:"M4 10l8-6 8 6M6 10v8M10 10v8M14 10v8M18 10v8M3 20h18"}
 ];
 
 /* ---------- Drawer: contact the developer ---------- */
