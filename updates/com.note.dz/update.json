@@ -1,0 +1,9 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0",
+  "title": "NOTE + Update Available !",
+  "message": "What's New ?\n. Goup notes for better management \n. Csv save notes and groups now\n. Day and Night mode\n. Applock by Pattern and Fingerprint",
+  "force": false,
+  "icon": "sparkles",
+  "updatedAt": 1795789190566
+}
