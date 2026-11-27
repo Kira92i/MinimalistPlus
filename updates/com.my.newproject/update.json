@@ -1,8 +1,9 @@
 {
-  "versionCode": 2,
+  "versionCode": 3,
   "versionName": "1.0",
   "title": "TEST + update available!",
-  "message": "Please, update this app to the latest version so you can benefit from its new features and fixes ",
-  "force": false,
-  "updatedAt": 1795777423673
+  "message": "Update this app to the latest version so you can benefit from its new features and fixes",
+  "force": true,
+  "icon": "download",
+  "updatedAt": 1795781469000
 }
